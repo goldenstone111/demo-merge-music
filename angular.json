@@ -39,7 +39,9 @@
                 "input": "src/global.scss"
               }
             ],
-            "scripts": []
+            "scripts": [
+              "./node_modules/crunker/dist/crunker.js"
+            ]
           },
           "configurations": {
             "production": {
